@@ -22,6 +22,8 @@ class TotalHelper(object):
         return data
     
     def post_process(self, total_dict, number, page, total_type):
+        if len(total_dict) == 0:
+            return total_array_format([], [], total_type)
         total_dict = sorted(total_dict.items(), key=lambda x:x[1], reverse=True)[:number]
         total_dict = np.array(total_dict)
         views = list(total_dict[:, 0])
