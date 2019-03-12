@@ -1,0 +1,1979 @@
+[15/Jan/2019 17:24:08] "POST /api/total HTTP/1.1" 200 1981
+[15/Jan/2019 17:26:11] "POST /api/total HTTP/1.1" 200 1981
+[15/Jan/2019 17:26:33] "GET /api/total HTTP/1.1" 405 40
+[15/Jan/2019 17:26:33] "GET /api/total HTTP/1.1" 405 40
+[15/Jan/2019 17:26:35] "GET /api/total HTTP/1.1" 405 40
+[15/Jan/2019 17:26:35] "GET /api/total HTTP/1.1" 405 40
+[15/Jan/2019 17:26:44] "GET /api/total HTTP/1.1" 405 5409
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:45] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:46] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:46] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:26:46] "GET /favicon.ico HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /api/total?total_type=all HTTP/1.1" 405 5454
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:03] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /api/total? HTTP/1.1" 405 5409
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:09] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:10] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:10] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "POST /api/total HTTP/1.1" 415 5459
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:32] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:33] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:33] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[15/Jan/2019 17:27:34] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[15/Jan/2019 17:32:25] "GET /api/total HTTP/1.1" 405 40
+[15/Jan/2019 17:32:47] "GET / HTTP/1.1" 404 77
+[15/Jan/2019 17:33:11] "POST /api/total HTTP/1.1" 200 1981
+[15/Jan/2019 17:33:25] "GET / HTTP/1.1" 404 77
+[15/Jan/2019 17:33:26] "GET / HTTP/1.1" 404 77
+[15/Jan/2019 17:34:21] "GET / HTTP/1.1" 404 77
+[15/Jan/2019 17:34:47] "POST /api/total HTTP/1.1" 200 1981
+[15/Jan/2019 17:35:00] "GET / HTTP/1.1" 404 77
+[15/Jan/2019 17:35:04] "POST /api/total HTTP/1.1" 200 1981
+[15/Jan/2019 17:35:45] "POST /api/total HTTP/1.1" 200 88
+[15/Jan/2019 17:35:50] "POST /api/total HTTP/1.1" 200 537
+[15/Jan/2019 17:36:59] "POST /api/total HTTP/1.1" 200 537
+[15/Jan/2019 17:37:54] "POST /api/total HTTP/1.1" 200 537
+[15/Jan/2019 17:45:29] "POST /api/total HTTP/1.1" 200 527
+[15/Jan/2019 17:47:24] "POST /api/total HTTP/1.1" 200 527
+[16/Jan/2019 01:09:48] "GET /api/total?fbclid=IwAR0EaBdDieMrTbUryIV8z6AhaS4RL3il7FaNNQ4VHODe1hG1CUZE4t3k8es HTTP/1.1" 405 5616
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:48] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:49] "GET /favicon.ico HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /api/total HTTP/1.1" 405 5409
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 01:09:56] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 01:15:11] "POST /api/total HTTP/1.1" 200 2151
+[16/Jan/2019 01:32:13] "POST /api/total HTTP/1.1" 200 2151
+[16/Jan/2019 01:35:41] "POST /api/total HTTP/1.1" 200 2142
+[16/Jan/2019 02:04:46] "POST /api/total HTTP/1.1" 200 696
+[16/Jan/2019 03:17:15] "GET /api/total HTTP/1.1" 405 5409
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:15] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:16] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:16] "GET /favicon.ico HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "POST /api/total HTTP/1.1" 415 5459
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:38] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:39] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:39] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:39] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:39] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /api/total HTTP/1.1" 405 5409
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:47] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:48] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:48] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:48] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:48] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "POST /api/total HTTP/1.1" 415 5459
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:17:53] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "POST /api/total HTTP/1.1" 415 5459
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:11] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:12] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:12] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:12] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:12] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "POST /api/total HTTP/1.1" 415 5459
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:33] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:58] "POST /api/total HTTP/1.1" 415 5459
+[16/Jan/2019 03:18:58] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:58] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:58] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:58] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:18:58] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:58] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:18:59] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:26] "GET /api/total? HTTP/1.1" 405 5409
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:27] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /api/total HTTP/1.1" 405 5409
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:28] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:31] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:35] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:35] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:35] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:35] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /api/total HTTP/1.1" 405 5409
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:38] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[16/Jan/2019 03:19:39] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[16/Jan/2019 03:32:52] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:33:19] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:34:15] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:34:33] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:35:23] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:36:06] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:36:43] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:37:09] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:37:41] "POST /api/total HTTP/1.1" 200 2059
+[16/Jan/2019 03:43:19] "POST /api/total HTTP/1.1" 200 2051
+[16/Jan/2019 03:44:02] "POST /api/total HTTP/1.1" 200 2051
+[16/Jan/2019 03:44:23] "POST /api/total HTTP/1.1" 200 2051
+[16/Jan/2019 03:45:10] "POST /api/total HTTP/1.1" 200 2051
+[16/Jan/2019 03:46:01] "POST /api/total HTTP/1.1" 200 2051
+[16/Jan/2019 03:51:59] "POST /api/total HTTP/1.1" 200 1976
+[16/Jan/2019 04:09:59] "POST /api/total HTTP/1.1" 200 2026
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[16/Jan/2019 10:38:48] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 10:41:28] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 10:41:47] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 10:42:33] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 10:43:02] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 10:43:35] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 10:59:34] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 11:04:16] code 400, message Bad request syntax ('\x01I20100')
+[16/Jan/2019 11:04:16] "I20100" 400 -
+[16/Jan/2019 11:05:50] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 11:08:16] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 11:12:46] "POST /api/total HTTP/1.1" 200 1925
+[16/Jan/2019 11:45:16] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 11:45:55] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 11:46:37] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 11:48:03] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:16:31] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:16:49] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:17:04] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:17:33] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:18:35] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:19:08] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:26:54] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:27:48] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:29:36] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:31:58] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 12:32:46] "POST /api/total HTTP/1.1" 200 1926
+[16/Jan/2019 15:51:09] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 15:51:38] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 15:57:43] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 15:58:52] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:03:06] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:10:01] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:10:35] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:11:46] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:18:32] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:19:25] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:20:35] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:21:00] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:22:28] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:22:56] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:23:23] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:23:46] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:24:06] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:24:15] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:26:01] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:46:59] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:49:09] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:54:42] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:55:09] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:56:42] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:57:23] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 16:57:59] "POST /api/total HTTP/1.1" 200 1941
+[16/Jan/2019 17:14:38] "POST /api/total HTTP/1.1" 200 1604
+[16/Jan/2019 17:22:30] "POST /api/total HTTP/1.1" 200 1683
+[16/Jan/2019 17:25:13] "POST /api/total HTTP/1.1" 200 1683
+[16/Jan/2019 17:26:17] "POST /api/total HTTP/1.1" 200 1683
+[16/Jan/2019 17:29:00] "POST /api/total HTTP/1.1" 200 1683
+[16/Jan/2019 17:29:52] "POST /api/total HTTP/1.1" 200 1683
+[16/Jan/2019 17:31:45] "POST /api/total HTTP/1.1" 200 1683
+[17/Jan/2019 03:39:18] "GET /api/total HTTP/1.1" 405 40
+[17/Jan/2019 07:38:27] "POST /api/total HTTP/1.1" 200 1876
+[17/Jan/2019 07:45:52] "POST /api/total HTTP/1.1" 200 1876
+[17/Jan/2019 07:55:21] "POST /api/total HTTP/1.1" 200 1876
+[17/Jan/2019 07:55:21] "POST /api/total HTTP/1.1" 200 1876
+[17/Jan/2019 07:57:00] "POST /api/total HTTP/1.1" 200 1876
+[17/Jan/2019 15:08:04] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:08:21] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:11:10] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:11:38] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:25:43] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:27:05] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:39:54] "GET / HTTP/1.1" 404 77
+[17/Jan/2019 15:39:54] "GET /favicon.ico HTTP/1.1" 404 77
+[17/Jan/2019 15:39:55] "GET / HTTP/1.1" 404 77
+[17/Jan/2019 15:40:16] "GET / HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /api/total HTTP/1.1" 405 5409
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[17/Jan/2019 15:40:43] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[17/Jan/2019 15:41:27] "POST /api/total HTTP/1.1" 200 1847
+[17/Jan/2019 15:56:49] "POST /api/total?t=day HTTP/1.1" 200 1847
+[17/Jan/2019 16:43:55] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 16:45:47] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 16:45:49] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 16:46:35] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 16:49:25] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 16:50:08] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 16:55:50] "POST /api/total HTTP/1.1" 200 1837
+[17/Jan/2019 17:02:31] "POST /api/total HTTP/1.1" 200 1690
+[17/Jan/2019 17:03:00] "POST /api/total HTTP/1.1" 200 1690
+[17/Jan/2019 17:05:50] "POST /api/total HTTP/1.1" 200 1690
+[17/Jan/2019 17:06:40] "POST /api/total HTTP/1.1" 200 1702
+[17/Jan/2019 17:06:53] "POST /api/total HTTP/1.1" 200 1702
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[18/Jan/2019 01:45:21] "GET / HTTP/1.0" 404 77
+[18/Jan/2019 01:45:26] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[18/Jan/2019 01:45:26] "          GetClassName        " 400 -
+[18/Jan/2019 01:45:26] code 400, message Bad request syntax ('\x01I20100')
+[18/Jan/2019 01:45:26] "I20100" 400 -
+[18/Jan/2019 01:45:31] code 400, message Bad request syntax ('{\x01\x00\x1613955555555\x7f\x00\x00U\x13\xa5{')
+[18/Jan/2019 01:45:31] "{ 13955555555  U\xa5{" 400 -
+[18/Jan/2019 01:45:31] "OPTIONS / HTTP/1.0" 404 77
+[18/Jan/2019 01:45:31] code 400, message Bad request version ('RTSP/1.0')
+[18/Jan/2019 01:45:31] "OPTIONS / RTSP/1.0" 400 -
+[18/Jan/2019 01:45:36] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[18/Jan/2019 01:45:36] "\x80  (r\xfe        \x86\xa0 \x97|                    " 400 -
+[18/Jan/2019 01:45:41] code 400, message Bad HTTP/0.9 request type ('\x00')
+[18/Jan/2019 01:45:41] "          versionbind   " 400 -
+[18/Jan/2019 01:45:46] code 400, message Bad HTTP/0.9 request type ('\x00')
+[18/Jan/2019 01:45:46] "            " 400 -
+[18/Jan/2019 01:45:46] code 400, message Bad request syntax ('HELP')
+[18/Jan/2019 01:45:46] "HELP" 400 -
+[18/Jan/2019 01:45:46] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[18/Jan/2019 01:45:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[18/Jan/2019 01:45:46] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01')
+[18/Jan/2019 01:45:46] "   qj\x81n0\x81k\xa1\xa2" 400 -
+[18/Jan/2019 01:45:51] code 400, message Bad request syntax ('\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[18/Jan/2019 01:45:51] "   \xa4\xffSMBr    @              @    \x81 PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[18/Jan/2019 01:45:56] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[18/Jan/2019 01:45:56] "l          " 400 -
+[18/Jan/2019 01:45:57] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[18/Jan/2019 01:45:57] code 400, message Bad request syntax ('\x01default')
+[18/Jan/2019 01:45:57] "default" 400 -
+[18/Jan/2019 01:46:02] code 400, message Bad HTTP/0.9 request type ('0')
+[18/Jan/2019 01:46:02] "0` \x80 " 400 -
+[18/Jan/2019 01:46:02] code 400, message Bad request version ('SIP/2.0')
+[18/Jan/2019 01:46:02] "OPTIONS sip:nm SIP/2.0" 400 -
+[18/Jan/2019 01:46:07] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[18/Jan/2019 01:46:07] "TNMP   TNME   " 400 -
+[18/Jan/2019 01:46:12] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[18/Jan/2019 01:46:12] "  \xe0     " 400 -
+[18/Jan/2019 01:46:17] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13')
+[18/Jan/2019 01:46:17] "DmdT           \xff\xff" 400 -
+[18/Jan/2019 01:46:22] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[18/Jan/2019 01:46:22] ":   /     @  =            /         @                 " 400 -
+[18/Jan/2019 01:46:27] code 400, message Bad request syntax ('\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00\xe0m\xdf_')
+[18/Jan/2019 01:46:27] "  \xfd\xce\xfa\xb0\xa0   MMS                    \xf0\xf0\xf0\xf0    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   \xe0m\xdf_" 400 -
+[18/Jan/2019 01:46:32] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00')
+[18/Jan/2019 01:46:32] " Z     6,   \xff      :                4\xe6           (CONNECT_DATA=(COMMAND=version))" 400 -
+[18/Jan/2019 01:46:37] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[18/Jan/2019 01:46:37] "              " 400 -
+[18/Jan/2019 01:46:42] code 400, message Bad request syntax ('\x94\x00\xcd\xef\xd1a\x91\x03')
+[18/Jan/2019 01:46:42] "\x94 \xcd\xef\xd1a\x91" 400 -
+[18/Jan/2019 01:46:42] code 400, message Bad request syntax ('\x03\x00\x00\x16\x11\xe0\x00\x00\x00\x0e\x00\xc1\x02\x01\x00\xc2\x02\x02\x00\xc0\x01')
+[18/Jan/2019 01:46:42] "  \xe0    \xc1 \xc2 \xc0" 400 -
+[18/Jan/2019 01:46:47] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0e\xe0\x00\x00\x00\xf2\x00\xc1\x02\x01\x00\xc2\x02\x02\x00')
+[18/Jan/2019 01:46:47] "  \xe0   \xf2 \xc1 \xc2 " 400 -
+[18/Jan/2019 01:46:52] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00\x06\x00\x01\x00\x00\x00\x01')
+[18/Jan/2019 01:46:52] "         " 400 -
+[18/Jan/2019 01:46:57] code 400, message Bad request syntax ('h\x04C\x00\x00\x00')
+[18/Jan/2019 01:46:57] "hC   " 400 -
+[18/Jan/2019 01:47:02] code 400, message Bad request syntax ('c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xc1\xde\xbe\xd1\x00\x00\x00\x00')
+[18/Jan/2019 01:47:02] "c               \xc1\xde\xbe\xd1    " 400 -
+[18/Jan/2019 01:47:07] code 400, message Bad request syntax ('\x00\x04\x01+\x1b\x00')
+[18/Jan/2019 01:47:07] " + " 400 -
+[18/Jan/2019 01:47:07] code 400, message Bad request syntax ('fox a 1 -1 fox hello')
+[18/Jan/2019 01:47:07] "fox a 1 -1 fox hello" 400 -
+[18/Jan/2019 01:47:13] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[18/Jan/2019 01:47:13] "                                                        " 400 -
+[18/Jan/2019 01:47:18] code 400, message Bad HTTP/0.9 request type ('FINS\x00\x00\x00')
+[18/Jan/2019 01:47:18] "FINS               " 400 -
+[18/Jan/2019 01:47:23] code 400, message Bad HTTP/0.9 request type ('\x01\x01\x00\x1a\x00\x00\x00\x00\x124\x00\x03\x00')
+[18/Jan/2019 01:47:23] "     4  IBETH01N0_M " 400 -
+[18/Jan/2019 01:47:28] code 400, message Bad HTTP/0.9 request type ('\xcc\x01\x00')
+[18/Jan/2019 01:47:28] "\xcc @  G\xee" 400 -
+[18/Jan/2019 01:47:29] code 400, message Bad HTTP/0.9 request type ('W\x00\x00\x00\x00\x11\x11\x07\x00\x00\xff\xff\x03\x00\x00\xfe\x03\x00\x00\x14\x00')
+[18/Jan/2019 01:47:29] "W      \xff\xff  \xfe   " 400 -
+[18/Jan/2019 01:47:34] code 400, message Bad request syntax ('\xbb\xbb\x01\x00\x00\x00\x01')
+[18/Jan/2019 01:47:34] "\xbb\xbb   " 400 -
+[18/Jan/2019 01:47:39] code 400, message Bad request syntax ('\xbb\xbb\x01\x00\x00\x01\x01')
+[18/Jan/2019 01:47:39] "\xbb\xbb  " 400 -
+[18/Jan/2019 01:47:44] code 400, message Bad HTTP/0.9 request type ('\x01\x00\x00\x00\x00\x01\x00')
+[18/Jan/2019 01:47:44] "       N " 400 -
+[18/Jan/2019 01:47:49] code 400, message Bad HTTP/0.9 request type ('HELF>\x00\x00\x00\x00\x00\x00\x00\xff\xff\x00\x00\xff\xff\x00\x00\xc0\xff?\x00\x00\x00\x00\x00')
+[18/Jan/2019 01:47:49] "HELF>       \xff\xff  \xff\xff  \xc0\xff?        opc.tcp://202.102.11.211:4840/" 400 -
+[18/Jan/2019 01:47:54] code 400, message Bad HTTP/0.9 request type ('HELF>\x00\x00\x00\x00\x00\x00\x00\xff\xff\x00\x00\xff\xff\x00\x00\xc0\xff?\x00\x00\x00\x00\x00')
+[18/Jan/2019 01:47:54] "HELF>       \xff\xff  \xff\xff  \xc0\xff?        opc.tcp://202.102.11.211:4845/" 400 -
+[18/Jan/2019 01:47:59] code 400, message Bad HTTP/0.9 request type ('HELF>\x00\x00\x00\x00\x00\x00\x00\xff\xff\x00\x00\xff\xff\x00\x00\xc0\xff?\x00\x00\x00\x00\x00')
+[18/Jan/2019 01:47:59] "HELF>       \xff\xff  \xff\xff  \xc0\xff?        opc.tcp://202.102.11.211:53530/" 400 -
+[18/Jan/2019 01:48:04] code 400, message Bad request syntax ('\xa0\x01\x00`\x00\x00\x00\x00\xc4\xa3\xafH\x99V\xb6\xb4\xc4\xa3\xafH\x99V\xb6\xb4\x04\x02\x00\x01\x00\x00\xa1\xaa')
+[18/Jan/2019 01:48:04] "\xa0 `    \xc4\xa3\xafH\x99V\xb6\xb4\xc4\xa3\xafH\x99V\xb6\xb4   \xa1\xaa" 400 -
+[18/Jan/2019 01:48:09] code 400, message Bad request syntax ('\x00|\x03\x06\x00\x82\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x9d/\x1f\xc9\xf6A\xde\xbdm&\x89\xe7\xa7\x89lXJ\x08\xff\xb8&\xbe<"\xbd\xb9L5\x03\xad_gb\xe9\xdc\x9d\x01\x8b\xba\xf9F\xf0-\xf3\x9ao\x86\xaclGT~x\xd5\xd0\xd8I\x0bxI\xfc\x1d\xf9\xdaH}R\x00\x00u0\x00\x00\xea`\x00\x00\x02X\x00\x00\x00\xfa\x00\x00u0\x00\x00\x00\x01S`\tt\x0b\x06\xd2\xbe\xff\xa8PCM\xa6\x9b\xe8')
+[18/Jan/2019 01:48:09] " | \x82          \x9d/\xc9\xf6A\xde\xbdm&\x89\xe7\xa7\x89lXJ\xff\xb8&\xbe<"\xbd\xb9L5\xad_gb\xe9\xdc\x9d\x8b\xba\xf9F\xf0-\xf3\x9ao\x86\xaclGT~x\xd5\xd0\xd8IxI\xfc\xf9\xdaH}R  u0  \xea`  X   \xfa  u0   S`	t\xd2\xbe\xff\xa8PCM\xa6\x9b\xe8" 400 -
+[18/Jan/2019 01:48:14] code 400, message Bad request syntax ('\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[18/Jan/2019 01:48:14] "                        " 400 -
+[18/Jan/2019 01:49:59] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(ABsO\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+[18/Jan/2019 01:49:59] "\x80  (ABsO        \x86\xa0                       " 400 -
+[18/Jan/2019 02:01:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:02:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:02:31] "GET /api/total HTTP/1.1" 405 40
+[18/Jan/2019 02:02:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:03:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:03:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:04:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:04:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:05:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:05:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:06:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:06:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:07:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:07:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:08:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:08:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:09:06] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:09:13] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:09:36] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:09:43] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:10:13] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:10:43] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:11:13] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:11:43] "POST /api/total HTTP/1.1" 200 1777
+[18/Jan/2019 02:37:02] code 400, message Bad request syntax ('\x01I20100')
+[18/Jan/2019 02:37:02] "I20100" 400 -
+[18/Jan/2019 02:37:04] code 400, message Bad request syntax ('\x01I20100')
+[18/Jan/2019 02:37:04] "I20100" 400 -
+[18/Jan/2019 02:37:18] code 400, message Bad request syntax ('{\x01\x00\x1613955555555\x7f\x00\x00U\x13\xa5{')
+[18/Jan/2019 02:37:18] "{ 13955555555  U\xa5{" 400 -
+[18/Jan/2019 02:37:23] code 400, message Bad request syntax ('{\x01\x00\x1613955555555\x7f\x00\x00U\x13\xa5{')
+[18/Jan/2019 02:37:23] "{ 13955555555  U\xa5{" 400 -
+[18/Jan/2019 02:43:27] code 400, message Bad request syntax ('{\x01\x00\x1613955555555\x7f\x00\x00U\x13\xa5{')
+[18/Jan/2019 02:43:27] "{ 13955555555  U\xa5{" 400 -
+[18/Jan/2019 04:59:12] "POST /api/total HTTP/1.1" 200 1969
+[18/Jan/2019 13:24:27] "POST /api/total HTTP/1.1" 200 2108
+[20/Jan/2019 18:00:06] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[20/Jan/2019 18:00:06] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[21/Jan/2019 19:29:46] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[21/Jan/2019 19:29:46] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[24/Jan/2019 14:57:44] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[24/Jan/2019 14:57:44] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[24/Jan/2019 18:18:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&\xe0\x00\x00\x00\x00\x00Cookie:')
+[24/Jan/2019 18:18:54] "  +&\xe0     Cookie: mstshash=hello" 400 -
+[26/Jan/2019 00:58:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[26/Jan/2019 00:58:39] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[26/Jan/2019 02:25:34] "POST /api/total?t=day HTTP/1.1" 200 2230
+[26/Jan/2019 09:48:49] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:49:19] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:49:49] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:50:19] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:50:50] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:51:19] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:51:49] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:52:19] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:52:49] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:53:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:53:10] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:53:19] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:53:49] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:54:19] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:54:33] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:55:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:55:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:56:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:56:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:57:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:57:35] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:58:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:58:35] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:59:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 09:59:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:00:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:00:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:01:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:01:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:02:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:02:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:03:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:03:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:04:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:04:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:05:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:05:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:06:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:06:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:07:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:07:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:08:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:08:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:09:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:09:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:10:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:10:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:11:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:11:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:11:40] "POST /api/total?t=day HTTP/1.1" 200 2152
+[26/Jan/2019 10:12:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:12:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:13:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:13:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:14:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:14:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:15:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:15:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:16:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:16:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:17:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:17:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:18:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:18:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:19:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:19:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:20:05] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:20:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:21:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:21:35] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:22:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:22:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:23:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:23:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:24:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:24:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:25:04] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:25:34] "POST /api/total HTTP/1.1" 200 2152
+[26/Jan/2019 10:27:39] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:28:47] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:29:34] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:29:56] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:30:22] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:31:50] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:38:54] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:40:55] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:47:46] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:47:55] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:48:26] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 10:48:56] "POST /api/total HTTP/1.1" 200 2153
+[26/Jan/2019 11:03:29] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:04:37] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:05:59] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:07:27] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:08:49] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:10:13] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:11:29] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:12:42] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:13:58] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:15:16] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:16:33] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:17:48] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:19:12] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:20:28] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:21:52] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:23:08] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:24:24] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:25:36] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:26:55] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:28:24] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:29:39] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:30:53] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:32:09] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:33:22] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:34:40] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:35:59] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:37:19] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:38:44] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:40:07] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:41:25] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:42:49] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:44:01] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:45:31] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:46:50] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:48:08] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:49:20] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:50:37] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:52:01] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:53:27] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:54:53] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:56:17] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:57:36] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 11:58:59] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:00:14] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:01:42] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:03:01] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:04:33] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:05:56] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:07:19] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:08:34] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:10:27] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:11:43] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:13:20] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:14:40] "POST /api/total HTTP/1.1" 200 2154
+[26/Jan/2019 12:16:06] "POST /api/total HTTP/1.1" 200 2155
+[26/Jan/2019 12:17:15] "POST /api/total HTTP/1.1" 200 2155
+[26/Jan/2019 12:18:26] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:19:57] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:21:18] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:22:32] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:23:59] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:25:27] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:26:46] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:28:02] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:29:26] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:30:44] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:32:04] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:33:24] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:34:45] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:36:02] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:37:31] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:38:59] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:40:19] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:41:38] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:42:54] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:44:12] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:45:34] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:46:52] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:48:15] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:49:34] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:50:54] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:52:10] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:53:35] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:54:49] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:56:16] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:57:36] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 12:59:02] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:00:35] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:01:52] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:03:18] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:04:52] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:06:12] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:07:33] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:08:48] "POST /api/total HTTP/1.1" 200 2116
+[26/Jan/2019 13:10:20] "POST /api/total HTTP/1.1" 200 2116
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 171, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[26/Jan/2019 13:12:04] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:49:10] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:50:30] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:51:58] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:53:17] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:54:41] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:56:07] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:57:31] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 13:58:55] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 14:00:18] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 14:01:49] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 14:03:15] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 14:04:32] "POST /api/total HTTP/1.1" 200 2075
+[26/Jan/2019 14:05:56] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:07:42] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:09:05] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:10:20] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:11:44] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:13:08] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:14:32] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:15:44] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:17:03] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:17:42] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:17:55] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:18:26] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:18:56] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:19:39] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:19:56] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:21:17] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:21:30] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:22:36] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:23:55] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:25:27] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:26:46] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:28:05] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:28:26] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:29:24] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:29:56] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:30:32] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:30:56] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:31:59] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:33:21] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:34:49] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:36:07] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:37:35] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:38:56] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:40:19] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:41:37] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:43:30] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:50:23] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:50:25] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:54:03] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 14:56:36] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:25:29] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:26:00] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:26:30] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:27:00] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:27:30] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:28:00] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:29:01] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:30:22] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:30:36] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:31:49] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:33:07] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:34:31] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:35:57] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:37:31] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:39:00] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:40:18] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:41:24] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:41:30] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:42:52] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:44:00] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:44:30] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:45:17] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:45:46] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:45:59] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:47:01] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:48:35] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:49:53] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:51:14] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 15:52:21] "POST /api/total HTTP/1.1" 200 2148
+[26/Jan/2019 17:18:00] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&\xe0\x00\x00\x00\x00\x00Cookie:')
+[26/Jan/2019 17:18:00] "  +&\xe0     Cookie: mstshash=hello" 400 -
+[26/Jan/2019 22:05:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[26/Jan/2019 22:05:39] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[27/Jan/2019 16:09:14] "POST /api/total HTTP/1.1" 500 27
+[27/Jan/2019 16:10:04] "POST /api/timerange_total HTTP/1.1" 500 27
+[27/Jan/2019 16:37:44] "POST /api/timerange_total HTTP/1.1" 200 703
+[27/Jan/2019 16:38:33] "GET / HTTP/1.1" 404 77
+[27/Jan/2019 16:38:34] "GET / HTTP/1.1" 404 77
+[27/Jan/2019 16:38:34] "GET / HTTP/1.1" 404 77
+[27/Jan/2019 16:38:57] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 16:38:57] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 16:38:58] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 16:38:58] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 16:38:59] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 16:42:56] "GET /api/timerange_total?fbclid=IwAR3in1rc11bo8PAZWbhY0RVab3v341W2cUEUx5CTNiYI34E-ux34A6edB-4 HTTP/1.1" 405 5706
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[27/Jan/2019 16:42:57] "GET /favicon.ico HTTP/1.1" 404 77
+[27/Jan/2019 16:47:08] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 442 176
+[27/Jan/2019 17:03:39] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 17:03:40] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 17:04:01] "GET /api/timerange_total?fbclid=IwAR2FuALePAMyW05tMv6wMusWLtLNRPKJmlB2HJhoxo457ipsG_CNuifCTEY HTTP/1.1" 405 5706
+[27/Jan/2019 17:04:01] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:01] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[27/Jan/2019 17:04:01] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[27/Jan/2019 17:04:01] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[27/Jan/2019 17:04:01] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[27/Jan/2019 17:04:01] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:02] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:02] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:02] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:02] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:02] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:02] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:03] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:03] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:04] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[27/Jan/2019 17:04:17] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 561
+[27/Jan/2019 17:42:30] "GET /api/timerange_total HTTP/1.1" 405 40
+[27/Jan/2019 17:42:32] "GET /api/timerange_total HTTP/1.1" 405 40
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 171, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[27/Jan/2019 22:44:30] "GET / HTTP/1.0" 404 77
+[27/Jan/2019 22:44:32] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[27/Jan/2019 22:44:32] "JRMI K" 400 -
+[2019-01-27 22:44:32,331] - Broken pipe from ('139.162.230.58', 34886)
+
+[27/Jan/2019 22:44:32] code 400, message Bad request syntax ('#ST')
+[27/Jan/2019 22:44:32] "#ST" 400 -
+[27/Jan/2019 22:44:34] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[27/Jan/2019 22:44:34] "          GetClassName        " 400 -
+[2019-01-27 22:44:34,337] - Broken pipe from ('139.162.230.58', 35576)
+
+[27/Jan/2019 22:44:36] code 400, message Bad HTTP/0.9 request type ('\x00')
+[27/Jan/2019 22:44:36] " n    be  " 400 -
+[2019-01-27 22:44:36,005] - Broken pipe from ('139.162.230.58', 36090)
+
+[27/Jan/2019 22:44:37] "GET / HTTP/1.0" 404 77
+[27/Jan/2019 22:44:37] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+[27/Jan/2019 22:44:37] "       " 400 -
+[2019-01-27 22:44:37,698] - Broken pipe from ('139.162.230.58', 36396)
+
+[27/Jan/2019 22:44:38] "OPTIONS / HTTP/1.0" 404 77
+[27/Jan/2019 22:44:38] code 400, message Bad request version ('RTSP/1.0')
+[27/Jan/2019 22:44:38] "OPTIONS / RTSP/1.0" 400 -
+[27/Jan/2019 22:44:40] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[27/Jan/2019 22:44:40] "\x80  (r\xfe        \x86\xa0 \x97|                    " 400 -
+[2019-01-27 22:44:40,341] - Broken pipe from ('139.162.230.58', 36734)
+
+[27/Jan/2019 22:44:42] code 400, message Bad HTTP/0.9 request type ('\x00')
+[27/Jan/2019 22:44:42] "          versionbind   " 400 -
+[2019-01-27 22:44:42,021] - Broken pipe from ('139.162.230.58', 36924)
+
+[27/Jan/2019 22:44:43] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[27/Jan/2019 22:44:43] "JRMI K" 400 -
+[27/Jan/2019 22:44:43] code 400, message Bad HTTP/0.9 request type ('\x00')
+[27/Jan/2019 22:44:43] "            " 400 -
+[2019-01-27 22:44:43,661] - Broken pipe from ('139.162.230.58', 37096)
+
+[27/Jan/2019 22:44:43] code 400, message Bad request syntax ('HELP')
+[27/Jan/2019 22:44:43] "HELP" 400 -
+[27/Jan/2019 22:44:44] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[27/Jan/2019 22:44:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[27/Jan/2019 22:44:44] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[27/Jan/2019 22:44:44] "  *%\xe0     Cookie: mstshash=be  " 400 -
+[27/Jan/2019 22:44:44] code 400, message Bad request version ('\x00/\x00')
+[27/Jan/2019 22:44:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[27/Jan/2019 22:44:45] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01')
+[27/Jan/2019 22:44:45] "   qj\x81n0\x81k\xa1\xa2" 400 -
+[27/Jan/2019 22:44:47] code 400, message Bad request syntax ('\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[27/Jan/2019 22:44:47] "   \xa4\xffSMBr    @              @    \x81 PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[2019-01-27 22:44:47,120] - Broken pipe from ('139.162.230.58', 37468)
+
+[27/Jan/2019 22:44:48] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[27/Jan/2019 22:44:48] "          GetClassName        " 400 -
+[27/Jan/2019 22:44:48] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[27/Jan/2019 22:44:48] "l          " 400 -
+[2019-01-27 22:44:48,769] - Broken pipe from ('139.162.230.58', 37598)
+
+[27/Jan/2019 22:44:48] "OPTIONS / HTTP/1.0" 404 77
+[27/Jan/2019 22:44:48] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[27/Jan/2019 22:44:49] code 400, message Bad request version ('RTSP/1.0')
+[27/Jan/2019 22:44:49] "OPTIONS / RTSP/1.0" 400 -
+[27/Jan/2019 22:44:49] code 400, message Bad request syntax ('\x01default')
+[27/Jan/2019 22:44:49] "default" 400 -
+[27/Jan/2019 22:44:49] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[27/Jan/2019 22:44:49] "0\x84   -c\x84   $ " 400 -
+[27/Jan/2019 22:44:51] code 400, message Bad HTTP/0.9 request type ('0')
+[27/Jan/2019 22:44:51] "0` \x80 " 400 -
+[2019-01-27 22:44:51,536] - Broken pipe from ('139.162.230.58', 37774)
+
+[27/Jan/2019 22:44:51] code 400, message Bad request version ('SIP/2.0')
+[27/Jan/2019 22:44:51] "OPTIONS sip:nm SIP/2.0" 400 -
+[27/Jan/2019 22:44:53] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[27/Jan/2019 22:44:53] "TNMP   TNME   " 400 -
+[2019-01-27 22:44:53,527] - Broken pipe from ('139.162.230.58', 37890)
+
+[27/Jan/2019 22:44:54] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[27/Jan/2019 22:44:54] "\x80  (r\xfe        \x86\xa0 \x97|                    " 400 -
+[27/Jan/2019 22:44:55] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[27/Jan/2019 22:44:55] "  \xe0     " 400 -
+[2019-01-27 22:44:55,178] - Broken pipe from ('139.162.230.58', 37978)
+
+[27/Jan/2019 22:44:56] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13')
+[27/Jan/2019 22:44:56] "DmdT           \xff\xff" 400 -
+[2019-01-27 22:44:56,829] - Broken pipe from ('139.162.230.58', 38060)
+
+[27/Jan/2019 22:44:58] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[27/Jan/2019 22:44:58] ":   /     @  =            /         @                 " 400 -
+[2019-01-27 22:44:58,501] - Broken pipe from ('139.162.230.58', 38152)
+
+[27/Jan/2019 22:44:59] code 400, message Bad HTTP/0.9 request type ('\x00')
+[27/Jan/2019 22:44:59] "          versionbind   " 400 -
+[27/Jan/2019 22:45:00] code 400, message Bad request syntax ('\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x00\x00.\x00\x00.\x02\x009\x008\x00\x00;\x00 \x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00\xe0m\xdf_')
+[27/Jan/2019 22:45:00] "  \xfd\xce\xfa\xb0\xa0   MMS                    \xf0\xf0\xf0\xf0    N S P l a y e r / 9 .  .  . 9 8  ;   {     A A   -  A   -   a  - A A  A -     A  A A  A A  }   \xe0m\xdf_" 400 -
+[2019-01-27 22:45:00,172] - Broken pipe from ('139.162.230.58', 38236)
+
+[27/Jan/2019 22:45:01] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00')
+[27/Jan/2019 22:45:01] " Z     6,   \xff      :               \xe6           (CONNECT_DATA=(COMMAND=version))" 400 -
+[2019-01-27 22:45:01,870] - Broken pipe from ('139.162.230.58', 38324)
+
+[27/Jan/2019 22:45:03] code 400, message Bad request version ('\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[27/Jan/2019 22:45:03] " 4            ( \xff U   MSSQLServer H  " 400 -
+[2019-01-27 22:45:03,523] - Broken pipe from ('139.162.230.58', 38402)
+
+[27/Jan/2019 22:45:05] code 400, message Bad HTTP/0.9 request type ('\x00')
+[27/Jan/2019 22:45:05] "            " 400 -
+[27/Jan/2019 22:45:05] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[27/Jan/2019 22:45:05] "              " 400 -
+[2019-01-27 22:45:05,195] - Broken pipe from ('139.162.230.58', 38486)
+
+[27/Jan/2019 22:45:05] code 400, message Bad request syntax ('HELP')
+[27/Jan/2019 22:45:05] "HELP" 400 -
+[27/Jan/2019 22:45:05] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[27/Jan/2019 22:45:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[27/Jan/2019 22:45:06] code 400, message Bad request version ('\x00/\x00')
+[27/Jan/2019 22:45:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[27/Jan/2019 22:45:06] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01')
+[27/Jan/2019 22:45:06] "   qj\x81n0\x81k\xa1\xa2" 400 -
+[27/Jan/2019 22:45:06] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[27/Jan/2019 22:45:06] "GIOP  $                abcdef     get     " 400 -
+[2019-01-27 22:45:06,849] - Broken pipe from ('139.162.230.58', 38562)
+
+[27/Jan/2019 22:45:08] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\xff\xff\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00be\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[27/Jan/2019 22:45:08] " \x9c +<M            \xff\xff none                                                            be                                                              " 400 -
+[2019-01-27 22:45:08,521] - Broken pipe from ('139.162.230.58', 38632)
+
+[27/Jan/2019 22:45:11] code 400, message Bad request syntax ('\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[27/Jan/2019 22:45:11] "   \xa4\xffSMBr    @              @    \x81 PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[27/Jan/2019 22:45:17] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[27/Jan/2019 22:45:17] "l          " 400 -
+[27/Jan/2019 22:45:17] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[27/Jan/2019 22:45:17] code 400, message Bad request syntax ('\x01default')
+[27/Jan/2019 22:45:17] "default" 400 -
+[27/Jan/2019 22:45:18] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[27/Jan/2019 22:45:18] "0\x84   -c\x84   $ " 400 -
+[27/Jan/2019 22:45:23] code 400, message Bad HTTP/0.9 request type ('0')
+[27/Jan/2019 22:45:23] "0` \x80 " 400 -
+[27/Jan/2019 22:45:23] code 400, message Bad request version ('SIP/2.0')
+[27/Jan/2019 22:45:23] "OPTIONS sip:nm SIP/2.0" 400 -
+[27/Jan/2019 22:45:29] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[27/Jan/2019 22:45:29] "TNMP   TNME   " 400 -
+[27/Jan/2019 22:45:34] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[27/Jan/2019 22:45:34] "  \xe0     " 400 -
+[27/Jan/2019 22:45:39] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13')
+[27/Jan/2019 22:45:39] "DmdT           \xff\xff" 400 -
+[27/Jan/2019 22:45:44] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[27/Jan/2019 22:45:44] ":   /     @  =            /         @                 " 400 -
+[27/Jan/2019 22:45:49] code 400, message Bad request syntax ('\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00\xe0m\xdf_')
+[27/Jan/2019 22:45:49] "  \xfd\xce\xfa\xb0\xa0   MMS                    \xf0\xf0\xf0\xf0    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   \xe0m\xdf_" 400 -
+[27/Jan/2019 22:45:55] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00')
+[27/Jan/2019 22:45:55] " Z     6,   \xff      :                4\xe6           (CONNECT_DATA=(COMMAND=version))" 400 -
+[27/Jan/2019 22:46:00] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[27/Jan/2019 22:46:00] "              " 400 -
+[27/Jan/2019 22:46:05] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[27/Jan/2019 22:46:05] "GIOP  $                abcdef     get     " 400 -
+[27/Jan/2019 22:49:10] code 400, message Bad request syntax ('\x01I20100')
+[27/Jan/2019 22:49:10] "I20100" 400 -
+[27/Jan/2019 22:49:46] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(\x04\x88\xd6\xb7\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+[27/Jan/2019 22:49:46] "\x80  (\x88\xd6\xb7        \x86\xa0                       " 400 -
+[29/Jan/2019 08:40:26] "GET /api/timerange_total?fbclid=IwAR3z2Tq_WFOfJmn5-3gmtaakn445uSl-A6l3TLDWqtGu5uudmJUPpWbHg_A HTTP/1.1" 405 5706
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[29/Jan/2019 08:40:26] "GET /favicon.ico HTTP/1.1" 404 77
+[29/Jan/2019 08:41:05] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:41:14] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 442 176
+[29/Jan/2019 08:41:22] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:41:44] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:41:52] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:42:00] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 561
+[29/Jan/2019 08:42:39] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:42:46] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:43:01] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:43:06] "POST /api/timerange_total?start_time=1546880679&end_time=1547144547 HTTP/1.1" 200 371
+[29/Jan/2019 08:43:22] "GET /api/timerange_total HTTP/1.1" 405 40
+[29/Jan/2019 08:43:23] "GET /api/timerange_total HTTP/1.1" 405 40
+[30/Jan/2019 06:20:47] "GET / HTTP/1.1" 404 77
+[30/Jan/2019 06:20:47] "GET /favicon.ico HTTP/1.1" 404 77
+[31/Jan/2019 00:53:12] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[31/Jan/2019 00:53:12] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[01/Feb/2019 00:07:28] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[01/Feb/2019 00:07:28] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[02/Feb/2019 07:16:28] code 400, message Bad request syntax ('\x01I20100')
+[02/Feb/2019 07:16:28] "I20100" 400 -
+[03/Feb/2019 08:08:32] code 400, message Bad request syntax ('\x01I20100')
+[03/Feb/2019 08:08:32] "I20100" 400 -
+[03/Feb/2019 21:32:42] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[03/Feb/2019 21:32:42] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[05/Feb/2019 13:23:49] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[05/Feb/2019 13:23:49] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[06/Feb/2019 01:39:31] code 400, message Bad request syntax ('\x01200')
+[06/Feb/2019 01:39:31] "200" 400 -
+[06/Feb/2019 02:19:44] code 400, message Bad request syntax ('\x01I20100')
+[06/Feb/2019 02:19:44] "I20100" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[08/Feb/2019 10:49:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[08/Feb/2019 10:49:47] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[11/Feb/2019 15:59:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&\xe0\x00\x00\x00\x00\x00Cookie:')
+[11/Feb/2019 15:59:39] "  +&\xe0     Cookie: mstshash=hello" 400 -
+[11/Feb/2019 17:37:51] "GET / HTTP/1.1" 404 77
+[11/Feb/2019 17:37:51] "GET /favicon.ico HTTP/1.1" 404 77
+[14/Feb/2019 03:59:05] "GET / HTTP/1.0" 404 77
+[14/Feb/2019 03:59:05] "GET / HTTP/1.0" 404 77
+[14/Feb/2019 03:59:10] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[14/Feb/2019 03:59:10] "JRMI K" 400 -
+[14/Feb/2019 03:59:10] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[14/Feb/2019 03:59:10] "JRMI K" 400 -
+[14/Feb/2019 03:59:15] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[14/Feb/2019 03:59:15] "          GetClassName        " 400 -
+[14/Feb/2019 03:59:15] "OPTIONS / HTTP/1.0" 404 77
+[14/Feb/2019 03:59:15] code 400, message Bad request version ('RTSP/1.0')
+[14/Feb/2019 03:59:15] "OPTIONS / RTSP/1.0" 400 -
+[14/Feb/2019 03:59:15] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[14/Feb/2019 03:59:15] "          GetClassName        " 400 -
+[14/Feb/2019 03:59:15] "OPTIONS / HTTP/1.0" 404 77
+[14/Feb/2019 03:59:15] code 400, message Bad request version ('RTSP/1.0')
+[14/Feb/2019 03:59:15] "OPTIONS / RTSP/1.0" 400 -
+[14/Feb/2019 03:59:20] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[14/Feb/2019 03:59:20] "\x80  (r\xfe        \x86\xa0 \x97|                    " 400 -
+[14/Feb/2019 03:59:20] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[14/Feb/2019 03:59:20] "\x80  (r\xfe        \x86\xa0 \x97|                    " 400 -
+[14/Feb/2019 03:59:25] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Feb/2019 03:59:25] "          versionbind   " 400 -
+[14/Feb/2019 03:59:25] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Feb/2019 03:59:25] "          versionbind   " 400 -
+[14/Feb/2019 03:59:30] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Feb/2019 03:59:30] "            " 400 -
+[14/Feb/2019 03:59:30] code 400, message Bad request syntax ('HELP')
+[14/Feb/2019 03:59:30] "HELP" 400 -
+[14/Feb/2019 03:59:30] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[14/Feb/2019 03:59:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[14/Feb/2019 03:59:30] code 400, message Bad request version ('\x00/\x00')
+[14/Feb/2019 03:59:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[14/Feb/2019 03:59:31] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Feb/2019 03:59:31] "            " 400 -
+[14/Feb/2019 03:59:31] code 400, message Bad request syntax ('HELP')
+[14/Feb/2019 03:59:31] "HELP" 400 -
+[14/Feb/2019 03:59:31] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01')
+[14/Feb/2019 03:59:31] "   qj\x81n0\x81k\xa1\xa2" 400 -
+[14/Feb/2019 03:59:31] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[14/Feb/2019 03:59:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[14/Feb/2019 03:59:31] code 400, message Bad request version ('\x00/\x00')
+[14/Feb/2019 03:59:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[14/Feb/2019 03:59:31] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01')
+[14/Feb/2019 03:59:31] "   qj\x81n0\x81k\xa1\xa2" 400 -
+[14/Feb/2019 03:59:36] code 400, message Bad request syntax ('\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[14/Feb/2019 03:59:36] "   \xa4\xffSMBr    @              @    \x81 PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[14/Feb/2019 03:59:36] code 400, message Bad request syntax ('\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[14/Feb/2019 03:59:36] "   \xa4\xffSMBr    @              @    \x81 PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[14/Feb/2019 03:59:41] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[14/Feb/2019 03:59:41] "l          " 400 -
+[14/Feb/2019 03:59:41] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[14/Feb/2019 03:59:41] code 400, message Bad request syntax ('\x01default')
+[14/Feb/2019 03:59:41] "default" 400 -
+[14/Feb/2019 03:59:41] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[14/Feb/2019 03:59:41] "0\x84   -c\x84   $ " 400 -
+[14/Feb/2019 03:59:41] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[14/Feb/2019 03:59:41] "l          " 400 -
+[14/Feb/2019 03:59:41] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[14/Feb/2019 03:59:41] code 400, message Bad request syntax ('\x01default')
+[14/Feb/2019 03:59:41] "default" 400 -
+[14/Feb/2019 03:59:41] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[14/Feb/2019 03:59:41] "0\x84   -c\x84   $ " 400 -
+[14/Feb/2019 03:59:46] code 400, message Bad HTTP/0.9 request type ('0')
+[14/Feb/2019 03:59:46] "0` \x80 " 400 -
+[14/Feb/2019 03:59:46] code 400, message Bad request version ('SIP/2.0')
+[14/Feb/2019 03:59:46] "OPTIONS sip:nm SIP/2.0" 400 -
+[14/Feb/2019 03:59:46] code 400, message Bad HTTP/0.9 request type ('0')
+[14/Feb/2019 03:59:46] "0` \x80 " 400 -
+[14/Feb/2019 03:59:46] code 400, message Bad request version ('SIP/2.0')
+[14/Feb/2019 03:59:46] "OPTIONS sip:nm SIP/2.0" 400 -
+[14/Feb/2019 03:59:51] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[14/Feb/2019 03:59:51] "TNMP   TNME   " 400 -
+[14/Feb/2019 03:59:52] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[14/Feb/2019 03:59:52] "TNMP   TNME   " 400 -
+[14/Feb/2019 03:59:56] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[14/Feb/2019 03:59:56] "  \xe0     " 400 -
+[14/Feb/2019 03:59:57] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[14/Feb/2019 03:59:57] "  \xe0     " 400 -
+[14/Feb/2019 04:00:01] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13')
+[14/Feb/2019 04:00:01] "DmdT           \xff\xff" 400 -
+[14/Feb/2019 04:00:02] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13')
+[14/Feb/2019 04:00:02] "DmdT           \xff\xff" 400 -
+[14/Feb/2019 04:00:06] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[14/Feb/2019 04:00:06] ":   /     @  =            /         @                 " 400 -
+[14/Feb/2019 04:00:07] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[14/Feb/2019 04:00:07] ":   /     @  =            /         @                 " 400 -
+[14/Feb/2019 04:00:11] code 400, message Bad request syntax ('\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00\xe0m\xdf_')
+[14/Feb/2019 04:00:11] "  \xfd\xce\xfa\xb0\xa0   MMS                    \xf0\xf0\xf0\xf0    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   \xe0m\xdf_" 400 -
+[14/Feb/2019 04:00:12] code 400, message Bad request syntax ('\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00\xe0m\xdf_')
+[14/Feb/2019 04:00:12] "  \xfd\xce\xfa\xb0\xa0   MMS                    \xf0\xf0\xf0\xf0    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   \xe0m\xdf_" 400 -
+[14/Feb/2019 04:00:17] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00')
+[14/Feb/2019 04:00:17] " Z     6,   \xff      :                4\xe6           (CONNECT_DATA=(COMMAND=version))" 400 -
+[14/Feb/2019 04:00:17] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00')
+[14/Feb/2019 04:00:17] " Z     6,   \xff      :                4\xe6           (CONNECT_DATA=(COMMAND=version))" 400 -
+[14/Feb/2019 04:00:22] code 400, message Bad request version ('\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[14/Feb/2019 04:00:22] " 4            ( \xff U   MSSQLServer H  " 400 -
+[14/Feb/2019 04:00:22] code 400, message Bad request version ('\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[14/Feb/2019 04:00:22] " 4            ( \xff U   MSSQLServer H  " 400 -
+[14/Feb/2019 04:00:27] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[14/Feb/2019 04:00:27] "              " 400 -
+[14/Feb/2019 04:00:27] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[14/Feb/2019 04:00:27] "              " 400 -
+[14/Feb/2019 04:00:32] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[14/Feb/2019 04:00:32] "GIOP  $                abcdef     get     " 400 -
+[14/Feb/2019 04:00:32] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[14/Feb/2019 04:00:32] "GIOP  $                abcdef     get     " 400 -
+[14/Feb/2019 04:01:24] code 400, message Bad request syntax ('\x80\x00\x00(')
+[14/Feb/2019 04:01:24] "\x80  (" 400 -
+[14/Feb/2019 04:01:25] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(@\xd0}$\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+[14/Feb/2019 04:01:25] "\x80  (@\xd0}$        \x86\xa0                       " 400 -
+[14/Feb/2019 04:41:59] "GET / HTTP/1.0" 404 77
+[14/Feb/2019 04:42:04] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[14/Feb/2019 04:42:04] "JRMI K" 400 -
+[14/Feb/2019 04:42:09] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[14/Feb/2019 04:42:09] "          GetClassName        " 400 -
+[14/Feb/2019 04:42:09] "OPTIONS / HTTP/1.0" 404 77
+[14/Feb/2019 04:42:09] code 400, message Bad request version ('RTSP/1.0')
+[14/Feb/2019 04:42:09] "OPTIONS / RTSP/1.0" 400 -
+[14/Feb/2019 04:42:14] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[14/Feb/2019 04:42:14] "\x80  (r\xfe        \x86\xa0 \x97|                    " 400 -
+[14/Feb/2019 04:42:19] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Feb/2019 04:42:19] "          versionbind   " 400 -
+[14/Feb/2019 04:42:24] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Feb/2019 04:42:24] "            " 400 -
+[14/Feb/2019 04:42:24] code 400, message Bad request syntax ('HELP')
+[14/Feb/2019 04:42:24] "HELP" 400 -
+[14/Feb/2019 04:42:24] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[14/Feb/2019 04:42:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[14/Feb/2019 04:42:25] code 400, message Bad request version ('\x00/\x00')
+[14/Feb/2019 04:42:25] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[14/Feb/2019 04:42:25] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01')
+[14/Feb/2019 04:42:25] "   qj\x81n0\x81k\xa1\xa2" 400 -
+[14/Feb/2019 04:42:30] code 400, message Bad request syntax ('\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[14/Feb/2019 04:42:30] "   \xa4\xffSMBr    @              @    \x81 PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[14/Feb/2019 04:42:35] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[14/Feb/2019 04:42:35] "l          " 400 -
+[14/Feb/2019 04:42:35] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[14/Feb/2019 04:42:35] code 400, message Bad request syntax ('\x01default')
+[14/Feb/2019 04:42:35] "default" 400 -
+[14/Feb/2019 04:42:35] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[14/Feb/2019 04:42:35] "0\x84   -c\x84   $ " 400 -
+[14/Feb/2019 04:42:40] code 400, message Bad HTTP/0.9 request type ('0')
+[14/Feb/2019 04:42:40] "0` \x80 " 400 -
+[14/Feb/2019 04:42:40] code 400, message Bad request version ('SIP/2.0')
+[14/Feb/2019 04:42:40] "OPTIONS sip:nm SIP/2.0" 400 -
+[14/Feb/2019 04:42:45] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[14/Feb/2019 04:42:45] "TNMP   TNME   " 400 -
+[14/Feb/2019 04:42:50] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[14/Feb/2019 04:42:50] "  \xe0     " 400 -
+[14/Feb/2019 04:42:55] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13')
+[14/Feb/2019 04:42:55] "DmdT           \xff\xff" 400 -
+[14/Feb/2019 04:43:01] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[14/Feb/2019 04:43:01] ":   /     @  =            /         @                 " 400 -
+[14/Feb/2019 04:43:06] code 400, message Bad request syntax ('\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00\xe0m\xdf_')
+[14/Feb/2019 04:43:06] "  \xfd\xce\xfa\xb0\xa0   MMS                    \xf0\xf0\xf0\xf0    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   \xe0m\xdf_" 400 -
+[14/Feb/2019 04:43:11] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00')
+[14/Feb/2019 04:43:11] " Z     6,   \xff      :                4\xe6           (CONNECT_DATA=(COMMAND=version))" 400 -
+[14/Feb/2019 04:43:16] code 400, message Bad request version ('\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[14/Feb/2019 04:43:16] " 4            ( \xff U   MSSQLServer H  " 400 -
+[14/Feb/2019 04:43:21] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[14/Feb/2019 04:43:21] "              " 400 -
+[14/Feb/2019 04:43:26] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[14/Feb/2019 04:43:26] "GIOP  $                abcdef     get     " 400 -
+[15/Feb/2019 18:25:46] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[15/Feb/2019 18:25:46] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[15/Feb/2019 21:13:20] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[15/Feb/2019 21:13:20] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[18/Feb/2019 22:37:40] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[18/Feb/2019 22:37:40] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[19/Feb/2019 03:12:21] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:12:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:13:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:13:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:14:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:14:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:15:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:15:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:16:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:16:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:17:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:17:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:18:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:18:52] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:19:22] "POST /api/total HTTP/1.1" 200 2366
+[19/Feb/2019 03:19:52] "POST /api/total HTTP/1.1" 200 2366
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[20/Feb/2019 02:54:24] "POST /api/total HTTP/1.1" 200 2428
+[20/Feb/2019 03:22:10] "POST /api/total HTTP/1.1" 200 2428
+[20/Feb/2019 03:22:20] "POST /api/total HTTP/1.1" 200 2428
+[20/Feb/2019 03:24:14] "POST /api/total HTTP/1.1" 200 2428
+[20/Feb/2019 03:35:17] "POST /api/total HTTP/1.1" 200 2445
+[20/Feb/2019 03:35:48] "POST /api/total HTTP/1.1" 200 2445
+[20/Feb/2019 03:36:18] "POST /api/total HTTP/1.1" 200 2445
+[20/Feb/2019 03:36:48] "POST /api/total HTTP/1.1" 200 2445
+[20/Feb/2019 03:37:18] "POST /api/total HTTP/1.1" 200 2445
+[20/Feb/2019 03:37:48] "POST /api/total HTTP/1.1" 200 2445
+[20/Feb/2019 05:34:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[20/Feb/2019 05:34:24] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[20/Feb/2019 09:36:15] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:36:29] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:40:57] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:42:14] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:46:30] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:46:51] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:47:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:47:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:48:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:48:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:49:06] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:49:33] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:49:49] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:50:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:50:51] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:51:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:51:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:52:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:52:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:53:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:53:51] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:54:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:54:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:55:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:55:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:56:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:56:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:57:22] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:57:52] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:58:19] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:58:50] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:59:20] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 09:59:50] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 10:00:20] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 10:00:46] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 10:01:17] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 10:01:43] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 10:02:14] "POST /api/total HTTP/1.1" 200 2450
+[20/Feb/2019 10:02:42] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:03:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:03:20] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:03:44] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:04:15] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:04:42] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:05:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:05:43] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:06:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:06:43] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:07:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:07:43] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:08:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:08:43] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:09:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:09:43] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:10:13] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:10:43] "POST /api/total HTTP/1.1" 200 2451
+[20/Feb/2019 10:11:13] "POST /api/total HTTP/1.1" 200 2470
+[20/Feb/2019 10:11:43] "POST /api/total HTTP/1.1" 200 2470
+[20/Feb/2019 10:12:13] "POST /api/total HTTP/1.1" 200 2470
+[20/Feb/2019 10:12:43] "POST /api/total HTTP/1.1" 200 2470
+[20/Feb/2019 10:13:13] "POST /api/total HTTP/1.1" 200 2470
+[20/Feb/2019 10:13:33] "POST /api/total HTTP/1.1" 200 2470
+[20/Feb/2019 15:09:36] "POST /api/total HTTP/1.1" 200 2452
+[20/Feb/2019 15:10:07] "POST /api/total HTTP/1.1" 200 2452
+[21/Feb/2019 03:28:24] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:28:56] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:29:26] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:29:56] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:30:26] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:30:56] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:31:26] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:31:56] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:32:26] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 03:32:56] "POST /api/total HTTP/1.1" 200 2408
+[21/Feb/2019 12:16:42] "POST /api/total HTTP/1.1" 200 2537
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Feb/2019 12:59:53] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[22/Feb/2019 12:59:53] "  *%\xe0     Cookie: mstshash=Test" 400 -
+[22/Feb/2019 12:59:53] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[22/Feb/2019 12:59:53] "  *%\xe0     Cookie: mstshash=Test" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Feb/2019 14:24:16] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[22/Feb/2019 14:24:16] "  *%\xe0     Cookie: mstshash=Test" 400 -
+[22/Feb/2019 14:24:17] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[22/Feb/2019 14:24:17] "  *%\xe0     Cookie: mstshash=Test" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[23/Feb/2019 00:12:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[23/Feb/2019 00:12:54] "  *%\xe0     Cookie: mstshash=Test" 400 -
+[23/Feb/2019 00:12:55] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[23/Feb/2019 00:12:55] "  *%\xe0     Cookie: mstshash=Test" 400 -
+[24/Feb/2019 06:51:28] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[24/Feb/2019 06:51:28] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[24/Feb/2019 18:05:21] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[24/Feb/2019 18:05:21] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[26/Feb/2019 03:21:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[26/Feb/2019 03:21:05] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[26/Feb/2019 03:49:49] "POST /api/total HTTP/1.1" 200 2310
+[26/Feb/2019 03:50:21] "POST /api/total HTTP/1.1" 200 2310
+[26/Feb/2019 03:50:41] "POST /api/total HTTP/1.1" 200 2310
+[26/Feb/2019 03:51:13] "POST /api/total HTTP/1.1" 200 2321
+[26/Feb/2019 05:05:31] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[26/Feb/2019 05:05:31] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[26/Feb/2019 12:37:57] "POST /api/total HTTP/1.1" 200 2305
+[26/Feb/2019 12:38:27] "POST /api/total HTTP/1.1" 200 2305
+[26/Feb/2019 12:38:57] "POST /api/total HTTP/1.1" 200 2305
+[26/Feb/2019 12:39:27] "POST /api/total HTTP/1.1" 200 2305
+[26/Feb/2019 12:39:57] "POST /api/total HTTP/1.1" 200 2305
+[26/Feb/2019 14:03:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[26/Feb/2019 14:03:04] "  /*\xe0     Cookie: mstshash=Administr" 400 -
+[27/Feb/2019 06:46:32] "POST /api/total HTTP/1.1" 200 2515
+[27/Feb/2019 07:52:21] "POST /api/total HTTP/1.1" 200 2435
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 171, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[27/Feb/2019 16:00:34] code 400, message Bad request version ('\xdeH[\x93\xb4\x16\x0e\xe5\x90/\xe9u\xb82h\x1b\xd4\xbb\xf6\xe1')
+[27/Feb/2019 16:00:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 169, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[27/Feb/2019 16:00:37] "GET / HTTP/1.1" 404 77
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 171, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Feb/2019 12:32:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:33:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:33:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:34:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:34:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:35:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:35:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:36:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:36:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:37:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:37:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:38:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:38:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:39:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:39:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:40:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:40:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:41:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:41:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:42:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:42:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:43:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:43:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:44:21] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:44:51] "POST /api/total HTTP/1.1" 200 2514
+[28/Feb/2019 12:45:21] "POST /api/total HTTP/1.1" 200 2514
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 15 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+January 27, 2019 - 16:07:48
+Django version 2.1.5, using settings 'countlyptit.settings'
+Starting development server at http://0.0.0.0:10001/
+Quit the server with CONTROL-C.
+----------------------------------------
+Exception happened during processing of request from ('58.187.21.171', 32145)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('80.82.70.118', 60000)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('80.82.70.118', 60000)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('185.156.177.153', 44192)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('185.156.177.153', 1137)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('185.156.177.153', 2967)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('14.232.58.37', 59409)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('164.52.24.179', 39308)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('164.52.24.179', 36449)
+----------------------------------------
+[01/Mar/2019 02:52:58] "POST /api/devices HTTP/1.1" 200 304
+[01/Mar/2019 02:53:17] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 02:53:17] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 02:53:18] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 02:53:18] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 02:53:19] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 02:54:02] "POST /api/devices HTTP/1.1" 200 304
+[01/Mar/2019 02:54:08] "POST /api/total HTTP/1.1" 200 2482
+[01/Mar/2019 02:54:13] "POST /api/timerange_total HTTP/1.1" 200 638
+[01/Mar/2019 02:54:21] "POST /api/devices HTTP/1.1" 200 304
+[01/Mar/2019 06:20:38] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 06:20:39] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 06:20:39] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 06:20:59] "GET /api/devices?fbclid=IwAR1qOMmAV2ifnAHxBGWblWCkE0AjTAj-kYexdlVz49h4Y3k1NzHeZdgbhR0 HTTP/1.1" 405 5634
+[01/Mar/2019 06:21:00] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[01/Mar/2019 06:21:00] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[01/Mar/2019 06:21:00] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:00] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:00] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[01/Mar/2019 06:21:00] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[01/Mar/2019 06:21:01] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:01] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:01] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:01] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:01] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:02] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:02] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:03] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:03] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[01/Mar/2019 06:21:04] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[01/Mar/2019 07:34:03] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 07:34:04] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 07:34:05] "GET /api/devices HTTP/1.1" 405 40
+[01/Mar/2019 09:44:33] "POST /api/total HTTP/1.1" 200 2379
+[04/Mar/2019 11:54:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Mar/2019 11:54:54] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Mar/2019 14:12:07] "GET / HTTP/1.0" 404 77
+[04/Mar/2019 14:12:09] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[04/Mar/2019 14:12:09] "JRMI K" 400 -
+[2019-03-04 14:12:09,284] - Broken pipe from ('45.56.79.13', 41614)
+
+[04/Mar/2019 14:12:09] code 400, message Bad request syntax ('#ST')
+[04/Mar/2019 14:12:09] "#ST" 400 -
+[04/Mar/2019 14:12:11] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[04/Mar/2019 14:12:11] "          GetClassName        " 400 -
+[2019-03-04 14:12:11,445] - Broken pipe from ('45.56.79.13', 42170)
+
+[04/Mar/2019 14:12:13] code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Mar/2019 14:12:13] " n    be  " 400 -
+[2019-03-04 14:12:13,158] - Broken pipe from ('45.56.79.13', 42484)
+
+[04/Mar/2019 14:12:14] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+[04/Mar/2019 14:12:14] "       " 400 -
+[2019-03-04 14:12:14,869] - Broken pipe from ('45.56.79.13', 42768)
+
+[04/Mar/2019 14:12:15] "GET / HTTP/1.0" 404 77
+[04/Mar/2019 14:12:15] "OPTIONS / HTTP/1.0" 404 77
+[04/Mar/2019 14:12:15] code 400, message Bad request version ('RTSP/1.0')
+[04/Mar/2019 14:12:15] "OPTIONS / RTSP/1.0" 400 -
+[04/Mar/2019 14:12:17] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[04/Mar/2019 14:12:17] "  (rþ          |                    " 400 -
+[2019-03-04 14:12:17,934] - Broken pipe from ('45.56.79.13', 43250)
+
+[04/Mar/2019 14:12:19] code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Mar/2019 14:12:19] "          versionbind   " 400 -
+[2019-03-04 14:12:19,665] - Broken pipe from ('45.56.79.13', 43512)
+
+[04/Mar/2019 14:12:20] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[04/Mar/2019 14:12:20] "JRMI K" 400 -
+[04/Mar/2019 14:12:21] code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Mar/2019 14:12:21] "            " 400 -
+[2019-03-04 14:12:21,363] - Broken pipe from ('45.56.79.13', 43712)
+
+[04/Mar/2019 14:12:21] code 400, message Bad request syntax ('HELP')
+[04/Mar/2019 14:12:21] "HELP" 400 -
+[04/Mar/2019 14:12:22] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[04/Mar/2019 14:12:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Mar/2019 14:12:22] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[04/Mar/2019 14:12:22] "  *%à     Cookie: mstshash=be  " 400 -
+[04/Mar/2019 14:12:22] code 400, message Bad request version ('\x00/\x00')
+[04/Mar/2019 14:12:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Mar/2019 14:12:23] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+[04/Mar/2019 14:12:23] "   qjn0k¡¢" 400 -
+[04/Mar/2019 14:12:25] code 400, message Bad request syntax ('\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[04/Mar/2019 14:12:25] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[2019-03-04 14:12:25,316] - Broken pipe from ('45.56.79.13', 44012)
+
+[04/Mar/2019 14:12:26] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[04/Mar/2019 14:12:26] "          GetClassName        " 400 -
+[04/Mar/2019 14:12:27] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[04/Mar/2019 14:12:27] "l          " 400 -
+[2019-03-04 14:12:27,022] - Broken pipe from ('45.56.79.13', 44130)
+
+[04/Mar/2019 14:12:27] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[04/Mar/2019 14:12:27] "OPTIONS / HTTP/1.0" 404 77
+[04/Mar/2019 14:12:27] code 400, message Bad request syntax ('\x01default')
+[04/Mar/2019 14:12:27] "default" 400 -
+[04/Mar/2019 14:12:27] code 400, message Bad request version ('RTSP/1.0')
+[04/Mar/2019 14:12:27] "OPTIONS / RTSP/1.0" 400 -
+[04/Mar/2019 14:12:28] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[04/Mar/2019 14:12:28] "0   -c   $ " 400 -
+[04/Mar/2019 14:12:30] code 400, message Bad HTTP/0.9 request type ('0')
+[04/Mar/2019 14:12:30] "0`  " 400 -
+[2019-03-04 14:12:30,070] - Broken pipe from ('45.56.79.13', 44316)
+
+[04/Mar/2019 14:12:30] code 400, message Bad request version ('SIP/2.0')
+[04/Mar/2019 14:12:30] "OPTIONS sip:nm SIP/2.0" 400 -
+[04/Mar/2019 14:12:32] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[04/Mar/2019 14:12:32] "TNMP   TNME   " 400 -
+[2019-03-04 14:12:32,243] - Broken pipe from ('45.56.79.13', 44450)
+
+[04/Mar/2019 14:12:33] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[04/Mar/2019 14:12:33] "  (rþ          |                    " 400 -
+[04/Mar/2019 14:12:33] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[04/Mar/2019 14:12:33] "  à     " 400 -
+[2019-03-04 14:12:33,963] - Broken pipe from ('45.56.79.13', 44540)
+
+[04/Mar/2019 14:12:35] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+[04/Mar/2019 14:12:35] "DmdT           ÿÿ" 400 -
+[2019-03-04 14:12:35,662] - Broken pipe from ('45.56.79.13', 44628)
+
+[04/Mar/2019 14:12:37] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[04/Mar/2019 14:12:37] ":   /     @  =            /         @                 " 400 -
+[2019-03-04 14:12:37,372] - Broken pipe from ('45.56.79.13', 44714)
+
+[04/Mar/2019 14:12:38] code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Mar/2019 14:12:38] "          versionbind   " 400 -
+[04/Mar/2019 14:12:39] code 400, message Bad request syntax ('\x01\x00\x00ýÎú\x0b°\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x00\x00.\x00\x00.\x02\x009\x008\x00\x00;\x00 \x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_')
+[04/Mar/2019 14:12:39] "  ýÎú°    MMS                    ðððð    N S P l a y e r / 9 .  .  . 9 8  ;   {     A A   -  A   -   a  - A A  A -     A  A A  A A  }   àmß_" 400 -
+[2019-03-04 14:12:39,092] - Broken pipe from ('45.56.79.13', 44796)
+
+[04/Mar/2019 14:12:40] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+[04/Mar/2019 14:12:40] " Z     6,   ÿ      :               æ           (CONNECT_DATA=(COMMAND=version))" 400 -
+[2019-03-04 14:12:40,803] - Broken pipe from ('45.56.79.13', 44884)
+
+[04/Mar/2019 14:12:42] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[04/Mar/2019 14:12:42] " 4            ( ÿ U   MSSQLServer H  " 400 -
+[2019-03-04 14:12:42,511] - Broken pipe from ('45.56.79.13', 44964)
+
+[04/Mar/2019 14:12:43] code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Mar/2019 14:12:43] "            " 400 -
+[04/Mar/2019 14:12:44] code 400, message Bad request syntax ('HELP')
+[04/Mar/2019 14:12:44] "HELP" 400 -
+[04/Mar/2019 14:12:44] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[04/Mar/2019 14:12:44] "              " 400 -
+[2019-03-04 14:12:44,230] - Broken pipe from ('45.56.79.13', 45060)
+
+[04/Mar/2019 14:12:44] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[04/Mar/2019 14:12:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Mar/2019 14:12:45] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[04/Mar/2019 14:12:45] "GIOP  $                abcdef     get     " 400 -
+[2019-03-04 14:12:45,937] - Broken pipe from ('45.56.79.13', 45422)
+
+[04/Mar/2019 14:12:47] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01ÿÿ\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00be\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[04/Mar/2019 14:12:47] "  +<M            ÿÿ none                                                            be                                                              " 400 -
+[2019-03-04 14:12:47,645] - Broken pipe from ('45.56.79.13', 45698)
+
+[04/Mar/2019 14:12:49] code 400, message Bad request syntax ('\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00')
+[04/Mar/2019 14:12:49] "                   " 400 -
+[2019-03-04 14:12:49,353] - Broken pipe from ('45.56.79.13', 46162)
+
+[04/Mar/2019 14:12:50] code 400, message Bad request version ('\x00/\x00')
+[04/Mar/2019 14:12:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Mar/2019 14:12:51] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+[04/Mar/2019 14:12:51] "   qjn0k¡¢" 400 -
+[04/Mar/2019 14:12:56] code 400, message Bad request syntax ('\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[04/Mar/2019 14:12:56] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[04/Mar/2019 14:13:02] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[04/Mar/2019 14:13:02] "l          " 400 -
+[04/Mar/2019 14:13:05] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 77
+[04/Mar/2019 14:13:07] code 400, message Bad request syntax ('\x01default')
+[04/Mar/2019 14:13:07] "default" 400 -
+[04/Mar/2019 14:13:07] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[04/Mar/2019 14:13:07] "0   -c   $ " 400 -
+[04/Mar/2019 14:13:13] code 400, message Bad HTTP/0.9 request type ('0')
+[04/Mar/2019 14:13:13] "0`  " 400 -
+[04/Mar/2019 14:13:13] code 400, message Bad request version ('SIP/2.0')
+[04/Mar/2019 14:13:13] "OPTIONS sip:nm SIP/2.0" 400 -
+[04/Mar/2019 14:13:19] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[04/Mar/2019 14:13:19] "TNMP   TNME   " 400 -
+[04/Mar/2019 14:13:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[04/Mar/2019 14:13:24] "  à     " 400 -
+[04/Mar/2019 14:13:29] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+[04/Mar/2019 14:13:29] "DmdT           ÿÿ" 400 -
+[04/Mar/2019 14:13:34] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[04/Mar/2019 14:13:34] ":   /     @  =            /         @                 " 400 -
+[04/Mar/2019 14:13:40] code 400, message Bad request syntax ('\x01\x00\x00ýÎú\x0b°\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+[04/Mar/2019 14:13:40] "  ýÎú°    MMS                    ðððð    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   àmß_" 400 -
+[04/Mar/2019 14:13:45] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+[04/Mar/2019 14:13:45] " Z     6,   ÿ      :                4æ           (CONNECT_DATA=(COMMAND=version))" 400 -
+[04/Mar/2019 14:13:50] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[04/Mar/2019 14:13:50] "              " 400 -
+[04/Mar/2019 14:13:55] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[04/Mar/2019 14:13:55] "GIOP  $                abcdef     get     " 400 -
+[04/Mar/2019 14:17:17] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(1k±Á\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+[04/Mar/2019 14:17:17] "  (1k±Á                                " 400 -
+[06/Mar/2019 01:31:22] code 400, message Bad request syntax ('\x01200')
+[06/Mar/2019 01:31:22] "200" 400 -
+[06/Mar/2019 02:24:56] code 400, message Bad request syntax ('\x01I20100')
+[06/Mar/2019 02:24:56] "I20100" 400 -
+[06/Mar/2019 04:02:56] "GET / HTTP/1.1" 404 77
+[06/Mar/2019 04:02:56] "GET /favicon.ico HTTP/1.1" 404 77
+[07/Mar/2019 10:10:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Mar/2019 10:10:11] "  /*à     Cookie: mstshash=Administr" 400 -
+[08/Mar/2019 09:10:25] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[08/Mar/2019 09:10:25] "  /*à     Cookie: mstshash=Administr" 400 -
+[10/Mar/2019 10:02:32] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[10/Mar/2019 10:02:32] "  /*à     Cookie: mstshash=Administr" 400 -
+[11/Mar/2019 06:33:11] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 06:38:30] "GET /api/devices HTTP/1.1" 405 5427
+[11/Mar/2019 06:38:30] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 77
+[11/Mar/2019 06:38:30] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 77
+[11/Mar/2019 06:38:30] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 77
+[11/Mar/2019 06:38:30] "GET /static/rest_framework/css/default.css HTTP/1.1" 404 77
+[11/Mar/2019 06:38:30] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:30] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /static/rest_framework/js/default.js HTTP/1.1" 404 77
+[11/Mar/2019 06:38:31] "GET /favicon.ico HTTP/1.1" 404 77
+[11/Mar/2019 06:44:29] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 06:44:48] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 06:44:48] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 06:46:34] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 06:46:39] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 06:47:56] "POST /api/devices?start_time=1514764800&end_time=1546560000 HTTP/1.1" 442 174
+[11/Mar/2019 06:48:36] "POST /api/devices?start_time=1548135300&end_time=1548560588 HTTP/1.1" 442 174
+[11/Mar/2019 07:00:08] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:00:08] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:00:17] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:00:17] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:00:28] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:00:28] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:00:46] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:00:47] "POST /api/devices HTTP/1.1" 442 174
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 171, in handle
+    self.handle_one_request()
+  File "/root/virtualenv/django-server/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 179, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[11/Mar/2019 07:02:37] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:02:37] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:04:01] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:04:01] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:05:07] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:05:07] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:07:03] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:07:03] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:07:36] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:07:36] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:11:50] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:11:51] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:13:24] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:13:25] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:17:50] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:17:50] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:22:02] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:22:02] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:34:24] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:34:25] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:34:55] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:34:55] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:40:12] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:40:12] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:40:59] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:41:00] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:41:50] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:41:50] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:43:30] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:43:30] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:44:00] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:44:01] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:45:18] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:45:18] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:46:44] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:46:44] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:48:52] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:48:53] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:49:19] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:49:20] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:53:00] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:53:00] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:53:33] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:53:33] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:53:57] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:53:57] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:54:20] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:54:21] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:55:10] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:55:10] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:55:19] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:55:19] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 07:56:04] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 07:56:04] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:03:05] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:03:07] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:03:50] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:03:50] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:04:02] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:04:02] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:05:23] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:05:24] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:05:55] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:05:56] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:07:57] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:07:57] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:11:42] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:11:42] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:19:19] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:19:19] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:19:58] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:19:59] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:20:47] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:20:48] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:22:07] "POST /api/total HTTP/1.1" 200 2390
+[11/Mar/2019 08:22:07] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:55:15] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 08:55:16] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:55:46] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 08:55:47] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:56:18] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 08:56:18] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 08:57:45] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 08:57:45] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:00:06] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:00:07] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:02:04] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:02:05] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:02:36] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:02:37] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:06:42] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:06:42] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:08:13] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:08:13] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:08:39] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:08:39] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:11:04] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:11:04] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:12:52] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:12:53] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:16:22] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:16:23] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:24:04] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:24:04] "POST /api/devices HTTP/1.1" 442 174
+[11/Mar/2019 09:27:42] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:29:38] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:34:20] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:35:25] "POST /api/total HTTP/1.1" 200 2446
+[11/Mar/2019 09:35:26] "POST /api/devices HTTP/1.1" 442 174

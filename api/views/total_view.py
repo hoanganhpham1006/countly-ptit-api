@@ -13,12 +13,12 @@ class Total(AbstractAPIView):
         if not form.is_valid():
             return self.json_format(code=442, data=[], message=self.failure, errors = form.errors)
 
-        number = form.cleaned_data.get('number')
+        number = form.cleaned_data.get('number') + 1
         total_type = form.cleaned_data.get('total_type')
         page = form.cleaned_data.get('page')
 
         if number is None:
-            number = 10
+            number = 11
         if total_type == '':
             total_type = 'all'
         if page is None:

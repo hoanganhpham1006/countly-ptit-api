@@ -13,13 +13,13 @@ class Devices(AbstractAPIView):
         if not form.is_valid():
             return self.json_format(code=442, data=[], message=self.failure, errors = form.errors)
 
-        number = form.cleaned_data.get('number')
+        number = form.cleaned_data.get('number') + 1
         page = form.cleaned_data.get('page')
         start_time = form.cleaned_data.get('start_time')
         end_time = form.cleaned_data.get('end_time')
 
         if number is None:
-            number = 10
+            number = 11
         if page is None:
             page = 1
 
